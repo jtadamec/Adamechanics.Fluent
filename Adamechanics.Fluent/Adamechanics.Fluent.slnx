@@ -2,6 +2,5 @@
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
   </Folder>
-  <Project Path="Adamechanics.Fluent.Analyzers/Adamechanics.Fluent.Analyzers.csproj" />
-  <Project Path="Adamechanics.Fluent.CodeGen/Adamechanics.Fluent.CodeGen.csproj" />
+  <Project Path="Adamechanics.Fluent/Adamechanics.Fluent.csproj" />
 </Solution>
